@@ -22,6 +22,7 @@
 ---
 
 ## 🚀 Projects
+- 🤖 **MyGPT** - LLM model built fully from scratch without frameworks
 - 🔍 **Smart Search** – AI-powered semantic search engine (microservices + vector DBs)  
 - 📊 **TradeX Platform** – Full-stack market data analytics system  
 - 📈 **Market Bot** – ML-based trading bot using Random Forest  
@@ -29,7 +30,6 @@
 ---
 
 ## 🧠 Latest Work
-- Built an **LLM from scratch** using only **NumPy & CuPy** (no high-level frameworks)  
 - Currently working on a **computer vision project** that tracks finger gestures via camera and draws on a canvas in real-time ✍️  
 
 ---
