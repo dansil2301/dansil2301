@@ -22,6 +22,7 @@
 ---
 
 ## 🚀 Projects
+- ✍️ **Finger Drawing** - Full stack application to draw only using the camera
 - 🤖 **MyGPT** - LLM model built fully from scratch without frameworks
 - 🔍 **Smart Search** – AI-powered semantic search engine (microservices + vector DBs)  
 - 📊 **TradeX Platform** – Full-stack market data analytics system  
@@ -30,7 +31,7 @@
 ---
 
 ## 🧠 Latest Work
-- Currently working on a **computer vision project** that tracks finger gestures via camera and draws on a canvas in real-time ✍️  
+- Thinking of a new project...
 
 ---
 
