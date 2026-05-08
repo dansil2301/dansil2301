@@ -31,7 +31,7 @@
 ---
 
 ## 🧠 Latest Work
-- Thinking of a new project...
+- Hmmm, something with goland and key vault???
 
 ---
 
