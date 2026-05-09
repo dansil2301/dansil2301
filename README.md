@@ -31,7 +31,7 @@
 ---
 
 ## 🧠 Latest Work
-- Hmmm, something with goland and key vault???
+- Key vault for k8s in go
 
 ---
 
