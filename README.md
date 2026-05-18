@@ -31,7 +31,7 @@
 ---
 
 ## 🧠 Latest Work
-- Key vault for k8s in go using gin
+- Key vault for kubernetes in go using gin
 
 ---
 
