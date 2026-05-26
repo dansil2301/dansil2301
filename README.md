@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack
 **Languages:** Python, Java, Go, JavaScript, SQL  
 **Frameworks:** Django, FastAPI, Spring Boot, React, Vue.js, Gin  
-**DevOps & Tools:** Docker, Kubernetes, CI/CD, Git, HashiCorp
+**DevOps & Tools:** Docker, Kubernetes, CI/CD, Git, HashiCorp  
 **Data & AI:** NumPy, pandas, scikit-learn, NLP, LLMs, Vector DBs  
 
 ---
