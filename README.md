@@ -31,7 +31,7 @@
 ---
 
 ## 🧠 Latest Work
-- Key vault for kubernetes in go using gin and hashicorp
+- Want to make fly brain talk
 
 ---
 
